@@ -36,3 +36,7 @@ featureA : aaaaaaaaaa
 
 내용 수정하고 feature a와 rebase..
 변경사항 커밋하고 rebase gogo
+
+
+복습
+merge 와 rebase 차이점
