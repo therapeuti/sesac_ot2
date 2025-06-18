@@ -19,3 +19,7 @@ git commit
 git status 상태 확인
 git diff 변경사항 확인
 git restore 원치않는 사항 복구
+
+
+동료가 수정한 내용들 있는 main 소스코드랑
+동료가 수정한 내용이 없는 featureB 소스코드랑 병합하려다가 망해서 수정된 내용 사라짐
