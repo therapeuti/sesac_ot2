@@ -11,3 +11,11 @@ git commit
 .gitignore
 
 
+1. 파일 변경
+2. git add 파일을 스테이징에 추가
+3. git commit -m "메세지"
+4. git push 원격 리포에 업로드
+
+git status 상태 확인
+git diff 변경사항 확인
+git restore 원치않는 사항 복구
