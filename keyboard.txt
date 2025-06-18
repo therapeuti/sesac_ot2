@@ -2,3 +2,13 @@
 
 키보드 기능 추가AAAAA merge 성공
 키보드 기능 추가 BBBBB merge conflict 발생
+
+
+
+branch featureB
+
+메인브랜치 키보드 추가
+키보드 기능 추가AAAAA
+
+
+기능 추가
