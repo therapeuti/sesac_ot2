@@ -12,7 +12,7 @@ git commit
 
 
 1. 파일 변경
-2. git add 파일을 스테이징에 추가
+2. git add 파일을 스테이징에 추가 ( 파일 변경시 해당 파일 add부터 해야함.)
 3. git commit -m "메세지"
 4. git push 원격 리포에 업로드
 
