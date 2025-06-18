@@ -19,3 +19,5 @@ git commit
 git status 상태 확인
 git diff 변경사항 확인
 git restore 원치않는 사항 복구
+
+현지윤
