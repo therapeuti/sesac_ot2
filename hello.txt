@@ -43,3 +43,7 @@ merge 와 rebase 차이점
 수정1
 수정2
 수정3
+
+
+main을 수정해서 main을 featureA에 merge하는거랑 featureB에 rebase하는거랑 차이점이 없나...? git graph는 걍 한 줄밖에 없네.. 없지
+이번엔 B를 수정
