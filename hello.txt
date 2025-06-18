@@ -52,3 +52,5 @@ main 수정. 세 브랜치 모두 소스 코드가 다르면 그래프 세 갈�
 수정3
 
 both accept
+
+featureA에 main을 merge함
